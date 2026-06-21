@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aplicación de Menú con 3 Pestañas (Inicio, Perfil, Contacto)
 📋 Descripción del Proyecto
 Esta es una aplicación móvil híbrida desarrollada con Ionic Framework 7 y React 18. La aplicación cuenta con un sistema de navegación por pestañas que incluye tres pantallas principales:
@@ -232,3 +233,7 @@ cd C:\Users\admin\mis-tabs-app
 ionic serve
 
 # 3. Abrir navegador en http://localhost:8100
+=======
+# Aplicaci-n-M-vil-con-Ionic-y-React-parte-II
+Aplicación Móvil con Ionic y React - Pantalla de Contacto
+>>>>>>> 7acca17bdd9f51da6a75ca799df742a5bdaa5be9
