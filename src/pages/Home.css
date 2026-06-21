@@ -1,0 +1,23 @@
+css
+/* src/pages/Home.css */
+
+/* Título de la tarjeta más grande */
+.big-title {
+  font-size: 32px !important;
+  font-weight: bold;
+}
+
+/* Contenido de la tarjeta más grande */
+.big-content {
+  font-size: 16px !important;
+  line-height: 1.6;
+}
+
+/* O todo el contenido de la tarjeta */
+.big-card ion-card-title {
+  font-size: 26px;
+}
+
+.big-card ion-card-content {
+  font-size: 14px;
+}

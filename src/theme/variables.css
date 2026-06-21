@@ -1,0 +1,13 @@
+css
+/* Cambiar el fondo de todas las páginas */
+ion-content {
+--background: #050505;  /* Negro profundo */
+ /* o cualquier color que quieras */
+}
+
+/* O solo para un color específico */
+ion-content {
+--background: #e3f2fd;  /* Azul hielo (muy claro) */
+}
+
+
